@@ -7,3 +7,9 @@
 [submodule "submodules/CACHE"]
 	path = submodules/CACHE
 	url = git@github.com:IObundle/iob-cache.git
+[submodule "iob-timer"]
+	path = iob-timer
+	url = git@github.com:keval-pixel/iob-timer.git
+[submodule "submodules/TIMER"]
+	path = submodules/TIMER
+	url = /TIMER
